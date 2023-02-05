@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\studia\msc\usb-magnetometer\hardware\usb-magnetometer\usb-magnetometer.kicad_sch</source>
+    <date>01/11/2022 12:09:03</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>USB magnetometer</title>
+        <company>AGH</company>
+        <rev>1.0</rev>
+        <date>2022-11-01</date>
+        <source>usb-magnetometer.kicad_sch</source>
+        <comment number="1" value="Wiktor Lechowicz"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">VJ0402Y103JXQCW1BC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="VJ0402Y103JXQCW1BC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f94d4466-a4c2-4da6-95d1-9edc787a9ae7</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CC0402JRNPO8BN470</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CC0402JRNPO8BN470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b30eee30-ae31-49cf-909d-43d20c0e6655</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CC0402JRNPO8BN470</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CC0402JRNPO8BN470"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb4bf79c-a975-4c01-aa51-d310c430295f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e71450-f64b-45fa-8db7-f1e5a1d4cd68</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b19af66d-3492-4c32-af49-b94aa9276007</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A475MP5NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A475MP5NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c18b21c-df55-4b1c-b514-ab1015f3c674</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81e11a9d-8aad-4332-b989-54ff7e3285a2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf396e86-60f5-4a6f-b94e-814d9ac5bbdc</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55072206-ffb3-4ffd-8420-58de0d81d008</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>090547c8-0a4c-4c8b-99ff-b7137a94b3b3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A475MP5NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A475MP5NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0a136df-d91a-4e18-9bf8-78087246f6d1</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6c2a699-7a6a-4d6b-9b16-777e59f53b10</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A475MP5NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A475MP5NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10f95310-255b-493c-ac24-50ebb7de2e30</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">CL05A104KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A104KP5NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7658ddb-a23b-435d-ad22-644fcabb0387</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>3.6V</value>
+      <footprint>Package_SON:X1SON</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/esd321</datasheet>
+      <fields>
+        <field name="MPN">ESD321DPYR</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="MPN" value="ESD321DPYR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa62d9b8-3d7d-432f-9a9c-6862dbc85689</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>3.6V</value>
+      <footprint>Package_SON:X1SON</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/esd321</datasheet>
+      <fields>
+        <field name="MPN">ESD321DPYR</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="MPN" value="ESD321DPYR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d93dfe47-8023-4929-8881-80df3be3009e</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>6.6V</value>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <datasheet>https://www.tme.eu/Document/99ebf153a8ec3a4bad09c586928d2a28/esd3z5v0.pdf</datasheet>
+      <fields>
+        <field name="MPN">ESD3Z5V0</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="MPN" value="ESD3Z5V0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ba86bbb-c9e9-4f68-9467-cad713ab86fe</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.tme.eu/Document/d9ff6640b4be79d44c5e8c86cdfa4c16/RF-BUB190TS-CA.pdf</datasheet>
+      <fields>
+        <field name="MPN">RF-BUB190TS-CA</field>
+      </fields>
+      <libsource lib="CNSN_LED" part="LED" description="Symbol of standard LED"/>
+      <property name="MPN" value="RF-BUB190TS-CA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cca6a206-004f-4652-85b4-81e9e1db3179</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.tme.eu/Document/d9ff6640b4be79d44c5e8c86cdfa4c16/RF-BUB190TS-CA.pdf</datasheet>
+      <fields>
+        <field name="MPN">RF-BUB190TS-CA</field>
+      </fields>
+      <libsource lib="CNSN_LED" part="LED" description="Symbol of standard LED"/>
+      <property name="MPN" value="RF-BUB190TS-CA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d8cecb6-b059-4e18-9f01-c47e083c1470</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500</footprint>
+      <datasheet>https://eu.mouser.com/ProductDetail/JAE-Electronics/DX07S016JA1R1500?qs=GBLSl2Akirucb2YMMGCxCQ%3D%3D</datasheet>
+      <fields>
+        <field name="MPN">DX07S016JA1R1500</field>
+      </fields>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="MPN" value="DX07S016JA1R1500"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>177d889f-96fd-4baa-ae33-eef081dfa7b2</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1x5_MALE</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <datasheet>*</datasheet>
+      <fields>
+        <field name="MPN">*</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Male" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="MPN" value="*"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac67cc3a-413e-4237-86e9-33124272e73a</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0b9d2a7-6444-434f-8dcb-18e6a05ce9bd</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2d3dee2-546f-4720-b97e-c1a3b2f590d0</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c05ba43-8046-4bec-a460-8430592c0073</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8de53a0-76a9-4eba-bf1d-a35a5544263f</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afff1d9d-caef-49d5-9e9e-7d917abedea5</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e7a9a69-86ee-4d5e-b828-d12cfbabe8fb</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>L_Ferrite</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.murata.com/en-us/api/pdfdownloadapi?cate=cgsubChipFerriBead&amp;partno=BLM15PX331SN1%23</datasheet>
+      <fields>
+        <field name="MPN">BLM15PX331SN1D</field>
+      </fields>
+      <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="MPN" value="BLM15PX331SN1D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e864ef12-d421-45a5-827b-c56d2d7cc58b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402JR-134K7L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402JR-134K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5248909a-c6dc-423b-8f16-8dc81ba5db19</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402JR-134K7L</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402JR-134K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e6395b8-842b-49fc-aa7c-8dae04c96d50</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402JR-0727RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402JR-0727RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>347ec1d1-89fc-4ea6-8eea-30e74d33d517</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402JR-0727RL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402JR-0727RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>089950d9-cd23-43f8-a9f9-aa5496fa9c4f</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-072KP</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-072KP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc14e7dd-1253-40db-902d-ae2014efdfdd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2k2</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-072KP</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-072KP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54dadd3a-149a-41fe-8539-1ebb2eb27920</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d7bea4d-e792-4e29-873e-ebb6a902d0ed</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-07100R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-07100R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cf4a95e-3029-4795-96b2-525d3c591e34</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-07100R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-07100R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>639af0d7-5bfc-491c-ac68-61bd3338f71b</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <fields>
+        <field name="MPN">RC0402FR-07100R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0402FR-07100R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>550edd13-f35b-481a-abd4-902b86336cd1</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8ee58e2-d473-429d-86c7-56116524ce39</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f811067-a7b0-43e1-ab5b-ce68ae6e71d7</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e065367-4a66-4ba5-9a4d-b66734ced676</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d58f2ee3-1ffa-4835-8d0c-2658fb1ab069</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44e368b6-866e-4702-91a1-48960cf2cf15</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20094864-76cd-4a76-8e80-51507e66b162</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint_Small</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5be99f7-3936-4d18-9ece-8b0b6ccf64a0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>FT231XS</value>
+      <footprint>Package_SO:SSOP-20_3.9x8.7mm_P0.635mm</footprint>
+      <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</datasheet>
+      <fields>
+        <field name="MPN">FT231XS-R</field>
+      </fields>
+      <libsource lib="Interface_USB" part="FT231XS" description="Full Speed USB to Full Handshake UART, SSOP-20"/>
+      <property name="MPN" value="FT231XS-R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d4dcabb-62f3-4fce-9816-031599676d8f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TMAG5170</value>
+      <footprint>Package_SO:VSSOP-8_3.0x3.0mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=https://www.ti.com/lit/gpn/tmag5170-q1</datasheet>
+      <fields>
+        <field name="MPN">TMAG5170A1EDGKRQ1</field>
+      </fields>
+      <libsource lib="usb-magnetometer-lib" part="TMAG5170" description=""/>
+      <property name="MPN" value="TMAG5170A1EDGKRQ1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1848fb17-5179-40b4-bf82-55e641590875</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32L010C6T6</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>https://www.mouser.pl/datasheet/2/389/dm00440567-1799328.pdf</datasheet>
+      <fields>
+        <field name="MPN">STM32L010C6T6</field>
+      </fields>
+      <libsource lib="usb-magnetometer-lib" part="stm32l010c6t6" description=""/>
+      <property name="MPN" value="STM32L010C6T6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="usb-magnetometer.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8bed542-67f1-497b-acba-983122b53f61</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CNSN_LED" part="LED">
+      <description>Symbol of standard LED</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Male">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint_Small">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Ferrite">
+      <description>Inductor with ferrite core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Ferrite</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="FT231XS">
+      <description>Full Speed USB to Full Handshake UART, SSOP-20</description>
+      <docs>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</docs>
+      <footprints>
+        <fp>*SSOP*3.9x8.7mm*P0.635mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT231XS</field>
+        <field name="Footprint">Package_SO:SSOP-20_3.9x8.7mm_P0.635mm</field>
+        <field name="Datasheet">https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{DTR}" type="output"/>
+        <pin num="2" name="~{RTS}" type="output"/>
+        <pin num="3" name="VCCIO" type="power_in"/>
+        <pin num="4" name="RXD" type="input"/>
+        <pin num="5" name="~{RI}" type="input"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="~{DSR}" type="input"/>
+        <pin num="8" name="~{DCD}" type="input"/>
+        <pin num="9" name="~{CTS}" type="input"/>
+        <pin num="10" name="CBUS2" type="bidirectional"/>
+        <pin num="11" name="USBDP" type="bidirectional"/>
+        <pin num="12" name="USBDM" type="bidirectional"/>
+        <pin num="13" name="3V3OUT" type="power_out"/>
+        <pin num="14" name="~{RESET}" type="input"/>
+        <pin num="15" name="VCC" type="power_in"/>
+        <pin num="16" name="GND" type="power_in"/>
+        <pin num="17" name="CBUS1" type="bidirectional"/>
+        <pin num="18" name="CBUS0" type="bidirectional"/>
+        <pin num="19" name="CBUS3" type="bidirectional"/>
+        <pin num="20" name="TXD" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Bridged">
+      <description>Solder Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="usb-magnetometer-lib" part="TMAG5170">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TMAG5170</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SCK" type="passive"/>
+        <pin num="2" name="SDI" type="passive"/>
+        <pin num="3" name="SDO" type="passive"/>
+        <pin num="4" name="nCS" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="TEST" type="passive"/>
+        <pin num="8" name="nALERT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="usb-magnetometer-lib" part="stm32l010c6t6">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">stm32l010c6t6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PC0" type="passive"/>
+        <pin num="2" name="PC13" type="passive"/>
+        <pin num="3" name="PC14-OSC32_IN" type="passive"/>
+        <pin num="4" name="PC15-OSC32_OUT" type="passive"/>
+        <pin num="5" name="PH0-OSC_IN" type="passive"/>
+        <pin num="6" name="PH1-OSC_OUT" type="passive"/>
+        <pin num="7" name="NRST" type="passive"/>
+        <pin num="8" name="VSSA" type="passive"/>
+        <pin num="9" name="VDDA" type="passive"/>
+        <pin num="10" name="PA0" type="passive"/>
+        <pin num="11" name="PA1" type="passive"/>
+        <pin num="12" name="PA2" type="passive"/>
+        <pin num="13" name="PA3" type="passive"/>
+        <pin num="14" name="PA4" type="passive"/>
+        <pin num="15" name="PA5" type="passive"/>
+        <pin num="16" name="PA6" type="passive"/>
+        <pin num="17" name="PA7" type="passive"/>
+        <pin num="18" name="PB0" type="passive"/>
+        <pin num="19" name="PB1" type="passive"/>
+        <pin num="20" name="PB2" type="passive"/>
+        <pin num="21" name="PB10" type="passive"/>
+        <pin num="22" name="PB11" type="passive"/>
+        <pin num="23" name="VSS" type="passive"/>
+        <pin num="24" name="VDD" type="passive"/>
+        <pin num="25" name="PB12" type="passive"/>
+        <pin num="26" name="PB13" type="passive"/>
+        <pin num="27" name="PB14" type="passive"/>
+        <pin num="28" name="PB15" type="passive"/>
+        <pin num="29" name="PA8" type="passive"/>
+        <pin num="30" name="PA9" type="passive"/>
+        <pin num="31" name="PA10" type="passive"/>
+        <pin num="32" name="PA11" type="passive"/>
+        <pin num="33" name="PA12" type="passive"/>
+        <pin num="34" name="PA13" type="passive"/>
+        <pin num="35" name="VSS" type="passive"/>
+        <pin num="36" name="VDD" type="passive"/>
+        <pin num="37" name="PA14" type="passive"/>
+        <pin num="38" name="PA15" type="passive"/>
+        <pin num="39" name="PB3" type="passive"/>
+        <pin num="40" name="PB4" type="passive"/>
+        <pin num="41" name="PB5" type="passive"/>
+        <pin num="42" name="PB6" type="passive"/>
+        <pin num="43" name="PB7" type="passive"/>
+        <pin num="44" name="BOOT0" type="passive"/>
+        <pin num="45" name="PB8" type="passive"/>
+        <pin num="46" name="PB9" type="passive"/>
+        <pin num="47" name="VSS" type="passive"/>
+        <pin num="48" name="VDD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CNSN_LED">
+      <uri>C:/programy/kicad6/share/kicad/cnsn_library/symbols/CNSN_LED.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\programy\kicad6\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\programy\kicad6\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>C:\programy\kicad6\share\kicad\symbols\/Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\programy\kicad6\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="usb-magnetometer-lib">
+      <uri>C:\studia\msc\usb-magnetometer\hardware\usb-magnetometer/usb-magnetometer-lib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="/CTS">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="32" pinfunction="PA11" pintype="passive"/>
+    </net>
+    <net code="3" name="/DCD">
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="PB14" pintype="passive"/>
+    </net>
+    <net code="4" name="/DSR">
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="28" pinfunction="PB15" pintype="passive"/>
+    </net>
+    <net code="5" name="/DTR">
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="PA8" pintype="passive"/>
+    </net>
+    <net code="6" name="/MAG_INT">
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="nALERT" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="PA0" pintype="passive"/>
+    </net>
+    <net code="7" name="/MCU_CLK">
+      <node ref="U1" pin="18" pinfunction="CBUS0" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="PH0-OSC_IN" pintype="passive"/>
+    </net>
+    <net code="8" name="/MCU_RX">
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="TXD" pintype="output"/>
+      <node ref="U3" pin="31" pinfunction="PA10" pintype="passive"/>
+    </net>
+    <net code="9" name="/MCU_TX">
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RXD" pintype="input"/>
+      <node ref="U3" pin="30" pinfunction="PA9" pintype="passive"/>
+    </net>
+    <net code="10" name="/RI">
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="26" pinfunction="PB13" pintype="passive"/>
+    </net>
+    <net code="11" name="/RTS">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="PA12" pintype="passive"/>
+    </net>
+    <net code="12" name="/SPI_MISO">
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="SDO" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="PA6" pintype="passive"/>
+    </net>
+    <net code="13" name="/SPI_MOSI">
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="SDI" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="PA7" pintype="passive"/>
+    </net>
+    <net code="14" name="/SPI_NSS">
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="nCS" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="PA4" pintype="passive"/>
+    </net>
+    <net code="15" name="/SPI_SCK">
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="SCK" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="PA5" pintype="passive"/>
+    </net>
+    <net code="16" name="/SWCLK">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="PA14" pintype="passive"/>
+    </net>
+    <net code="17" name="/SWDIO">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U3" pin="34" pinfunction="PA13" pintype="passive"/>
+    </net>
+    <net code="18" name="/nRST">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="NRST" pintype="passive"/>
+    </net>
+    <net code="19" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="VSS" pintype="passive"/>
+      <node ref="U3" pin="35" pinfunction="VSS" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="VSS" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VSSA" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(JP1-Pad1)">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="~{RTS}" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(JP2-Pad1)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="~{CTS}" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(JP3-Pad1)">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{DTR}" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(JP4-Pad1)">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="~{DSR}" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(JP5-Pad1)">
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="~{DCD}" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(JP6-Pad1)">
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="~{RI}" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="USBDM" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="USBDP" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="CBUS2" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="CBUS1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="44" pinfunction="BOOT0" pintype="passive"/>
+    </net>
+    <net code="41" name="VDD">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="3V3OUT" pintype="power_out"/>
+      <node ref="U1" pin="14" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="VCC" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="VDD" pintype="passive"/>
+      <node ref="U3" pin="36" pinfunction="VDD" pintype="passive"/>
+      <node ref="U3" pin="48" pinfunction="VDD" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="VDDA" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(J1-PadS1)">
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="CBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="TEST" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-Pad1)">
+      <node ref="U3" pin="1" pinfunction="PC0" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-Pad2)">
+      <node ref="U3" pin="2" pinfunction="PC13" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="PC14-OSC32_IN" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="PC15-OSC32_OUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="PH1-OSC_OUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="PA1" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="PA2" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U3-Pad13)">
+      <node ref="U3" pin="13" pinfunction="PA3" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U3-Pad18)">
+      <node ref="U3" pin="18" pinfunction="PB0" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="PB1" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U3-Pad20)">
+      <node ref="U3" pin="20" pinfunction="PB2" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U3-Pad21)">
+      <node ref="U3" pin="21" pinfunction="PB10" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U3-Pad22)">
+      <node ref="U3" pin="22" pinfunction="PB11" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U3-Pad25)">
+      <node ref="U3" pin="25" pinfunction="PB12" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U3-Pad38)">
+      <node ref="U3" pin="38" pinfunction="PA15" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U3-Pad39)">
+      <node ref="U3" pin="39" pinfunction="PB3" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U3-Pad40)">
+      <node ref="U3" pin="40" pinfunction="PB4" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U3-Pad41)">
+      <node ref="U3" pin="41" pinfunction="PB5" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U3-Pad42)">
+      <node ref="U3" pin="42" pinfunction="PB6" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U3-Pad43)">
+      <node ref="U3" pin="43" pinfunction="PB7" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U3-Pad45)">
+      <node ref="U3" pin="45" pinfunction="PB8" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U3-Pad46)">
+      <node ref="U3" pin="46" pinfunction="PB9" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
